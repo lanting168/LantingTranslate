@@ -7,7 +7,7 @@
 
 一款轻量高效的翻译软件，支持 **100+ 种语言互译**，可直接翻译 **PDF、Word、Excel、PPT 等文档**，并 **完整保留原始格式**。支持 **离线翻译** 与 **在线增强模式**，兼顾隐私、速度与准确性！
 
-<img width="731" height="589" alt="image" src="https://github.com/user-attachments/assets/7cbdf0d2-f4e3-46bd-bb32-f8c4b4584f8e" />
+
 
 
 ---
@@ -21,7 +21,7 @@
 - ☁️ **本地模式**：完全离线运行，保障数据隐私，适合敏感内容
 - 🖥️ **系统支持**：Windows
 
-<img width="734" height="592" alt="image" src="https://github.com/user-attachments/assets/f90a803b-5d2c-4db2-b9d4-242a9688c534" />
+
 
 
 ---
@@ -38,3 +38,8 @@
 - 首次运行需要安装 VC_redist.x64.exe
 - 内存最好至少8G
 - 使用管理员权限运行
+
+### 界面
+<img width="550" height="443" alt="image" src="https://github.com/user-attachments/assets/7cbdf0d2-f4e3-46bd-bb32-f8c4b4584f8e" />
+
+<img width="550" height="443" alt="image" src="https://github.com/user-attachments/assets/f90a803b-5d2c-4db2-b9d4-242a9688c534" />
