@@ -1,3 +1,8 @@
+<p align="center" style="font-size: 19px">
+    <a href="README.md">中文</a>&nbsp ｜ &nbspEnglish&nbsp 
+</p>
+<br><br>
+
 # 🌐 Multilingual translation tool
 
 A lightweight and efficient translation software that supports **100+ language translations**, can directly translate **PDF, Word, Excel, PPT documents**, and fully preserves the original format. It supports offline translation and online enhancement mode, balancing privacy, speed, and accuracy!
