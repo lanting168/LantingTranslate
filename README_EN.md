@@ -7,8 +7,6 @@
 
 A lightweight and efficient translation software that supports **100+ language translations**, can directly translate **PDF, Word, Excel, PPT documents**, and fully preserves the original format. It supports offline translation and online enhancement mode, balancing privacy, speed, and accuracy!
 
-<img width="731" height="589" alt="image" src="https://github.com/user-attachments/assets/7cbdf0d2-f4e3-46bd-bb32-f8c4b4584f8e" />
-
 
 ---
 
@@ -20,9 +18,6 @@ A lightweight and efficient translation software that supports **100+ language t
 - 📴 **Offline translation**: built-in lightweight language model, fast translations without internet  
 - ☁️ **Local mode**: fully offline operation, ensures data privacy, suitable for sensitive content  
 - 🖥️ **System support**: Windows
-
-<img width="734" height="592" alt="image" src="https://github.com/user-attachments/assets/f90a803b-5d2c-4db2-b9d4-242a9688c534" />
-
 
 ---
 
