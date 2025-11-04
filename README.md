@@ -1,3 +1,8 @@
+<p align="center" style="font-size:19px">
+    &nbsp中文&nbsp | <a href="README_EN.md">English</a>
+</p>
+<br><br>
+
 # 🌐 多语言翻译工具
 
 一款轻量高效的翻译软件，支持 **100+ 种语言互译**，可直接翻译 **PDF、Word、Excel、PPT 等文档**，并 **完整保留原始格式**。支持 **离线翻译** 与 **在线增强模式**，兼顾隐私、速度与准确性！
