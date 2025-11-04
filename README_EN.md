@@ -33,3 +33,8 @@ Unpack and install the package, run it directly.
 - First run requires installation of VC_redist.x64.exe
 - Memory is recommended to be at least 8GB
 - Run with administrator privileges
+
+### GUI
+<img width="550" height="443" alt="image" src="https://github.com/user-attachments/assets/7cbdf0d2-f4e3-46bd-bb32-f8c4b4584f8e" />
+
+<img width="550" height="443" alt="image" src="https://github.com/user-attachments/assets/f90a803b-5d2c-4db2-b9d4-242a9688c534" />
